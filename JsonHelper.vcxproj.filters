@@ -15,15 +15,15 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="json.h">
+    <ClInclude Include="src\json.h">
       <Filter>Source Files</Filter>
     </ClInclude>
-    <ClInclude Include="json-forwards.h">
+    <ClInclude Include="src\json-forwards.h">
       <Filter>Source Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="jsoncpp.cpp">
+    <ClCompile Include="src\jsoncpp.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
